@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/ssafarloo/nothing/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+here is where to look for the stuff:
+
+https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
