@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 here is where to look for the stuff:
 
-url: https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
+url:https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
 
 start with the Jekyll Now theme if you want a simple and already set-up blog.
 
