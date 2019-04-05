@@ -8,6 +8,8 @@ here is where to look for the stuff:
 
 https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
 
+start with the Jekyll Now theme if you want a simple and already set-up blog.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
